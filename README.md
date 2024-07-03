@@ -1,6 +1,6 @@
 # 1년차 개발자 허영인의 개발자취
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HE0IN&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HE0IN" alt="my Github Stats"/>
 
 ## 사용해 본 프로그래밍 언어
 1. Python
